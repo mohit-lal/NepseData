@@ -26,5 +26,3 @@ print(mydata)
 #     mydata.loc[length] = row
 
 # title = table1.find_all("tr", {"class":"unique"})
-# print(title)
-
